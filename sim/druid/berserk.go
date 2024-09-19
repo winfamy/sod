@@ -30,6 +30,7 @@ func (druid *Druid) applyBerserk() {
 				// druid.Pounce, // If it would exist
 				druid.FerociousBite,
 				druid.MangleCat,
+				druid.SwipeCat,
 				// druid.Sunfire, // If it would exist
 				// druid.Skullbash, // If it would exist
 				druid.SavageRoar,
